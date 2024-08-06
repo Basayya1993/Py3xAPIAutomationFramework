@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89aedd32-82e7-46fa-835b-e53825bca497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Py3xAPIAutomationFramwork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/api_request_wrappers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/payload_managers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tests/crud/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tests/crud/test_create_booking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tests/crud/test_crud.py" afterDir="false" />
+    <list default="true" id="89aedd32-82e7-46fa-835b-e53825bca497" name="Changes" comment="API Automation Testing Framework">
+      <change afterPath="$PROJECT_DIR$/allure-results/07b38b68-9c47-452e-acd6-274733674084-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ed8a4d8-2076-4cf8-b537-9ac3e8fd5612-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94dfd51a-a027-4a30-ab60-95f68a970a75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1701b81-75d5-4376-8837-55bc77cac8a9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d72b4b8e-9761-4e0d-9653-318b8cd8ad7c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f6d04b49-2c09-46c7-9497-4b836547d0e3-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Basayya1993&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Basayya1993/PyATB3x-API_Automation&quot;,
+    &quot;accountId&quot;: &quot;39c34539-735d-4e39-9d9a-6728918ff185&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kEQC6jW4pNNEQasy72742VzFmZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,7 +54,8 @@
     "Python tests.Python tests for test_create_booking.TestCreateBooking.executor": "Run",
     "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive">
@@ -114,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722846125703</updated>
     </task>
+    <task id="LOCAL-00001" summary="API Automation Testing Framework">
+      <option name="closed" value="true" />
+      <created>1722887682641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722887682641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API Automation Testing Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Automation Testing Framework" />
   </component>
 </project>
